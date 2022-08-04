@@ -3,4 +3,8 @@
     <string name="button1">Button1</string>
     <string name="button2">Button2</string>
     <string name="button3">Button3</string>
+
+    <string name="send">Send</string>
+    <string name="type_something">type something</string>
+>>>>>>> 0210629 (change)
 </resources>
